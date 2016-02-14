@@ -1,0 +1,28 @@
+name: Lane Genealogy
+favicon: null
+layout_spectrum: 0.2425603971350938
+typography_spectrum: 0.22468306473456323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4700434016995132
+  lightness: 0.9526001291815192
+  saturation: 0.8253358553629369
+  rhythmicContrast: 0.5689642627257854
+purpose: []
